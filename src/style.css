@@ -47,7 +47,7 @@ body {
   text-transform: uppercase;
 }
 
-.nav__link + .nav__link {
+.nav__item + .nav__item {
   margin-left: 20px;
 }
 
